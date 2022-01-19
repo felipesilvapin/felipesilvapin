@@ -1,5 +1,8 @@
 
 ### Olá 👋
+
+Sou o Felipe, tenho 26 anos e moro em Campinas/SP.
+
 Estou no último semestre de Análise e Desenvolvimento de Sistemas.
 
 - 🔭 Atualmente estou trabalhando como Desenvolvedor de Software Jr.
