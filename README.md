@@ -7,7 +7,7 @@
 
 <h2> 🏆 Status Github </h2>
 <a href="https://github.com/felipesilvapin">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipeslvapin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Felipe Silva Status Github"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipesilvapin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Felipe Silva Status Github"/>
 </a>
 
 <a href="https://github.com/felipesilvapin">
