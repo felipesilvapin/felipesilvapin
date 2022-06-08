@@ -1,9 +1,9 @@
 
 ### Olá 👋
 
-## Sou o Felipe, sou de Campinas/SP.
-## Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP.
-## Atualmente sou Desenvolvedor na CI&T.
+Sou o Felipe, sou de Campinas/SP.
+Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP.
+Atualmente sou Desenvolvedor na CI&T.
 
 <div>
   <div>
