@@ -8,7 +8,7 @@
 <h2> Tecnologias </h2>
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
  
- <i class="devicon-html5-plain colored">T</i> 
+ <i class="devicon-html5-plain colored"></i> 
  <i class="devicon-css3-plain colored"></i>
  <i class="devicon-javascript-plain colored"></i>
  <i class="devicon-typescript-plain colored"></i>
@@ -27,7 +27,7 @@
  <i class="devicon-bitbucket-original colored"></i>
  <i class="devicon-jira-plain-wordmark colored"></i>
  <i class="devicon-gradle-plain colored"></i>
- <i class="devicon-npm-original-wordmark"></i>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
  
  <i class="devicon-linux-plain colored"></i>
  </link>
