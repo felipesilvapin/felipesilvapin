@@ -8,7 +8,7 @@
 <h2> Tecnologias </h2>
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
  
- <i class="devicon-html5-plain colored"></i> 
+ <i class="devicon-html5-plain colored">T</i> 
  <i class="devicon-css3-plain colored"></i>
  <i class="devicon-javascript-plain colored"></i>
  <i class="devicon-typescript-plain colored"></i>
